@@ -11,3 +11,4 @@ storybook-static
 /cypress/
 .idea
 .swc/
+config.bat
